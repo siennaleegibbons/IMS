@@ -1,4 +1,4 @@
-The Inventory Management System is a Python-based tool designed to simulate a small-scale inventory tracking environment. The system includes functionality to:
+The Inventory Management System is a Python-based tool designed to simulate a small scale inventory tracking environment. The system includes functionality to:
 
 - Add and update product information
 - Track inventory levels and simulate sales
